@@ -65,6 +65,10 @@ namespace _2002807_Maeda_RecordingStudio
         {
             minutesInput.Clear();
             nameInput.Clear();
+            totalCharge.Clear();
+            averageCharge.Clear();
+            groupNumber.Clear();
+            singleCharge.Clear();
         }
     }
 }
